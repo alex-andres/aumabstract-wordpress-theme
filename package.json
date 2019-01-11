@@ -1,0 +1,22 @@
+{
+  "name": "aumabstract",
+  "version": "1.0.0",
+  "description": "Alex Feliciano's Personal Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alex-andres/aumabstract-website.git"
+  },
+  "author": "Alex Andres",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alex-andres/aumabstract-website/issues"
+  },
+  "homepage": "https://github.com/alex-andres/aumabstract-website#readme",
+  "dependencies": {
+    "npm": "^6.5.0"
+  }
+}
