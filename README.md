@@ -1,13 +1,8 @@
-$Aum Abstract Wordpress Theme
+Aum Abstract Wordpress Theme
 ========
 
-$A custom wordpress theme for Alex Feliciano, an artist based out of Los Angeles. 
+A custom wordpress theme for Alex Feliciano, an artist based out of Los Angeles. 
 
-Look how easy it is to use:
-
-    import project
-    # Get your stuff done
-    project.do_stuff()
 
 Features
 --------
