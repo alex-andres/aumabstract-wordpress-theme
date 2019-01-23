@@ -18,5 +18,14 @@
   "homepage": "https://github.com/alex-andres/aumabstract-website#readme",
   "dependencies": {
     "npm": "^6.5.0"
+  },
+  "devDependencies": {
+    "grunt": "latest",
+    "grunt-postcss": "^0.9.0",
+    "autoprefixer": "^9.4.6",
+    "grunt-contrib-cssmin": "^3.0.0",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-uglify": "^4.0.0",
+    "grunt-contrib-watch": "^1.1.0"
   }
 }
