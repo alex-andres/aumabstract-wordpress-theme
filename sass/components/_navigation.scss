@@ -1,45 +1,16 @@
-body{
-  font-family: futura-pt, sans-serif;
-  font-weight: 300;
-  font-style: normal;
+
+
+
+.site-footer, .page-wrap:after {
+  /* .push must be the same height as footer */
+    height: 60px; 
 }
-.nav-logo{
-  width: 11vw;
-}
-.nav-item{
-  font-size: 20px;
-}
-.navbar-toggler{
+footer {
+  padding: 0 60px;
+  line-height: 60px;
   background-color: white;
+  .footer-item{
+  float: right;
+  padding: 0 30px;
 }
-.navbar-toggler-icon{
-  color: black;
-}
-li.nav-item{
-  margin: 0 auto;
-}
-li.nav-item.dropdown.show{
-  text-align: center;
-}
-a.dropdown-item{
-  text-align: center;
-}
-div.dropdown-menu{
-  border: none; 
-}
-button.navbar-toggler{
-  border: none;
-}
-button.navbar-toggler:focus{
-  outline: 0;
-}
-
-
-footer{
-    position: absolute;
-    bottom: 0;
-    width: 100%;
-    height: 60px;
-    line-height: 60px;
-    background-color: white;
 }

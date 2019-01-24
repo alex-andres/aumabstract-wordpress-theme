@@ -1,14 +1,48 @@
-@media 
 //Loading Page
 .loading-logo{
   height: 100%;
   width: 100%;
 }
+//===========================================
+//Photography/Video/Commercial Page
+//===========================================
 .preview-image{
   object-fit: cover;
   width: 250px;
   height: 250px;
 }
-.container{
-  max-width: 1200px;
+//===========================================
+//Fine Art Page
+//===========================================
+
+
+//===========================================
+//Individual Work Page
+//===========================================
+
+
+//===========================================
+//About Page
+//===========================================
+
+
+//===========================================
+//Studio Page
+//===========================================
+@media screen and (min-width: 800px) {
+  .one-third{
+    width: calc(100%/3);
+  }
+  .two-thirds{
+    width: calc(100%/3 * 2);
+  }
+  .one-fourth{
+    width: calc(100%/4);
+  }
+  .half{
+    width: calc(100%/2);
+  }
+  column{
+    float: left;
+  }
 }
